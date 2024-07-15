@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of personal finance management.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is a budget?",
+      "answers": ["Plan", "Loan", "Debt"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is a loan?",
+      "answers": ["Credit", "Save", "Spend"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is interest?",
+      "answers": ["Charge", "Gift", "Tax"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is savings?",
+      "answers": ["Reserve", "Credit", "Debt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a mortgage?",
+      "answers": ["Home", "Car", "Card"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is credit?",
+      "answers": ["Loan", "Save", "Debt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a debit card?",
+      "answers": ["Bank", "Loan", "Credit"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an investment?",
+      "answers": ["Asset", "Liability", "Expense"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an emergency fund?",
+      "answers": ["Safety", "Loan", "Credit"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is net worth?",
+      "answers": ["Wealth", "Income", "Debt"],
       "correctAnswerIndex": 0
     }
   ]
